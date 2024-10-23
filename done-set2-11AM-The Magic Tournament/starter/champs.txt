@@ -1,0 +1,6 @@
+Hermione Granger,Gryffindor,320
+Ron Weasley,Gryffindor,300
+Draco Malfoy,Slytherin,310
+Cedric Diggor,Hufflepuff,330
+Cho Chang,Ravenclaw,340
+Harry Potter,Gryffindor,350
